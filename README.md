@@ -60,10 +60,9 @@
 
 <br/>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mazidcouk&show_icons=true&theme=default&title_color=0077B5&text_color=0077B5&icon_color=0077B5&hide_border=true&custom_title=Mazid'sGitHub%20Stats" alt="Mazid's GitHub Stats" width="100%" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazidcouk&layout=compact&theme=default&title_color=0077B5&text_color=0077B5&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" width="100%" />
+<div align="left" style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mazidcouk&show_icons=true&theme=default&title_color=0077B5&text_color=0077B5&icon_color=0077B5&hide_border=true&custom_title=Mazid's%20GitHub%20Stats" alt="Mazid's GitHub Stats" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazidcouk&layout=compact&theme=default&title_color=0077B5&text_color=0077B5&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" width="38%" />
 </div>
 
 <div align="left" style="margin-top: 20px;">
@@ -116,10 +115,10 @@
   
   <p>Feel free to:</p>
   <ul style="list-style-type: none; padding: 0;">
-    <li>- Suggest improvements</li>
-    <li>- Share resources</li>
-    <li>- Provide feedback</li>
-    <li>- Connect for collaboration</li>
+    <li>Suggest improvements</li>
+    <li>Share resources</li>
+    <li>Provide feedback</li>
+    <li>Connect for collaboration</li>
   </ul>
 </div> 
 </div> 

@@ -72,16 +72,8 @@
 
 
 <div style="background-color: #f8f9fa; padding: 2rem; border-radius: 10px; margin: 2rem 0; color: #0077B5;">
-  <h2 style="color: #0077B5;">DevOps journey</h2>
+  <h2 style="color: #0077B5;">devops-journey</h2>
   <p>This repository documents my DevOps Engineering materials and latest projects. I share my learning process, challenges, and achievements.</p>
-  
- 
-
-  <div style="background-color: white; padding: 1.5rem; border-radius: 8px; margin: 1.5rem 0; border-left: 4px solid #0077B5;">
-    <p style="margin: 0; line-height: 1.6;">
-      My approach is inspired by John Sweller's "Cognitive Load Theory": Our working memory has limits. Breaking complex technical concepts into smaller, manageable tasks not only makes learning more effective but also creates a sense of achievement. This approach transcends DevOps and applies to any field of study.
-    </p>
-  </div>
 </div>
 
 <div style="text-align: center;">

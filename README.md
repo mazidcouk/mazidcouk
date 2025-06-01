@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Bash-0077B5?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Git-0077B5?style=for-the-badge&logo=github-actions&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Terraform-0077B5?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/cicd-0077B5?style=for-the-badge&logo=cicd&logoColor=white" alt="cicd" />
+  <img src="https://img.shields.io/badge/ci/cd-0077B5?style=for-the-badge&logo=ci/cd&logoColor=white" alt="cicd" />
 </div>
 
 <br/>
@@ -73,12 +73,14 @@
 
 <div style="background-color: #f8f9fa; padding: 2rem; border-radius: 10px; margin: 2rem 0; color: #0077B5;">
   <h2 style="color: #0077B5;">DevOps journey</h2>
-  <p>This repository documents my DevOps Engineering journey. I share my learning process, challenges, and achievements.</p>
+  <p>This repository documents my DevOps Engineering materials and latest projects. I share my learning process, challenges, and achievements.</p>
   
-  <div style="margin: 1rem 0;">
-    <img src="https://img.shields.io/badge/Frequency-4_days/week-0077B5?style=flat-square" alt="Frequency" />
-    <img src="https://img.shields.io/badge/Time-5:00_AM_/_6:30_AM-0077B5?style=flat-square" alt="Time" />
-    <img src="https://img.shields.io/badge/Duration-90_minutes-0077B5?style=flat-square" alt="Duration" />
+ 
+
+  <div style="background-color: white; padding: 1.5rem; border-radius: 8px; margin: 1.5rem 0; border-left: 4px solid #0077B5;">
+    <p style="margin: 0; line-height: 1.6;">
+      My approach is inspired by John Sweller's "Cognitive Load Theory": Our working memory has limits. Breaking complex technical concepts into smaller, manageable tasks not only makes learning more effective but also creates a sense of achievement. This approach transcends DevOps and applies to any field of study.
+    </p>
   </div>
 </div>
 

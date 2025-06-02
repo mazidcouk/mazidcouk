@@ -65,7 +65,7 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazidcouk&theme=default&hide_border=true&stroke=0077B5&custom_title=GitHub%20Streak&height=195" alt="GitHub Streak" width="30%" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazidcouk&layout=compact&theme=default&title_color=0077B5&text_color=0077B5&hide_border=true&custom_title=Top%20Languages&height=195" alt="Top Languages" width="25%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazidcouk&layout=compact&theme=default&title_color=0077B5&text_color=0077B5&hide_border=true&custom_title=Top%20Languages&height=195" alt="Top Languages" width="20%" />
 </div>
 
 <div align="left" style="margin-top: 20px;">
